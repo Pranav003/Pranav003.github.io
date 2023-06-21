@@ -1,7 +1,12 @@
-# NIVEA
 
 A new Flutter project.
 
+# NIVEA
+Hi, I made this app during my intern at Beiersdorf, India (famous for its product called Nivea).
+
+This MVP is mainly focused on babycare and asking to collect reviews regarding the same.
+If the Global Rnd head and Marketing head likes this prototype, our Rnd team will further get funding to launch an app on commercial scale.
+Overall, it was an enjoyable task to learn and implement all this, linking things to backend on Firebase was the hardest part but enjoyed making this a lot with my supervisor here at BDF [Prachee](https://www.linkedin.com/in/prachee-prabhutendolkar-b9623ab1/)
 ## Getting Started
 
 FlutterFlow projects are built to run on the Flutter _stable_ release.
